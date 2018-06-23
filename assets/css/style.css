@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.card-style {
+    width: 50rem;
+}
+
+.circle {
+    display: inline-block;
+    margin-right: 20px;
+    border: 2rem black;
+    padding: 3.3rem;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.img-style {
+    margin-top: 2rem;
+}
+
+.img-crystal {
+    margin-top: 2em;
+    padding: .2em .2em .6rem .2em;
+}
+
+#crystals-wrapper {
+    border-width: 10px;
+    border-color: black;
+}
+
+#target-circle {
+    background-color: lightsteelblue;
+    border: 1px solid black;
+    border-radius: 75px 25px;
+}
+
+#player-circle {
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 25px 75px;
+}
+
+#messages-display {
+   color: navy; 
+}
